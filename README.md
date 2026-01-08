@@ -65,8 +65,8 @@ Right now, I’m focused on becoming a strong AI/ML engineer with product sense,
 ## 🏆 Achievements & Highlights
 
 * 🧠 Participant — IIT Kharagpur Data Science Hackathon
-* 🥇 Beginners Champion — SIT College Hackathon
-* 🧑‍💻 Web Developer Intern — Dealhub Solutions Pvt. Ltd.
+* 🥇 **Beginners Champion** — SIT College Hackathon
+* 🧑‍💻 **Web Developer Intern — Dealhub Solutions Pvt. Ltd.**
 * 💡 Built & pitched prototypes in ideathons & innovation events
 * 🚀 Building AI + product-focused prototypes with real use-cases
 * 🎯 Actively preparing for FAANG-style placements & AI engineering roles
