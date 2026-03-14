@@ -85,7 +85,7 @@ Right now, I’m focused on becoming a strong AI/ML engineer with product sense,
 ## 📫 How to Reach Me
 
 * 📧 **Email:** [sbera987654321@gmail.com](mailto:sbera987654321@gmail.com)
-* 💼 **LinkedIn:** [/sourav-bera-50232b328](https://www.linkedin.com/in/sourav-bera-50232b328/)
+* 💼 **LinkedIn:** [/souravxbera](https://www.linkedin.com/in/souravxbera)
 * 🌐 **Portfolio:** [www.souravbera.in](https://www.souravbera.in/)
 * 🧑‍💻 **GitHub:** [github.com/sbera01](https://github.com/sbera01)
 
